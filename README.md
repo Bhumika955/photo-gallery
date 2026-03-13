@@ -1,4 +1,4 @@
-                          ** Photo Gallery Web App **
+Photo Gallery Web App 
 
 ## Overview
 
